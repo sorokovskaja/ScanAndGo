@@ -1,0 +1,2 @@
+# ScanAndGo
+QR Scanning application 
