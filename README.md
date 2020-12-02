@@ -1,2 +1,2 @@
 # ScanAndGo
-QR Scanning application 
+Android React Native QR Scanning application 
